@@ -1,4 +1,4 @@
-# meals
+# Meals app (Flutter)
 
 ## What it is:
 Meals app allows users to browse various meals categories, pick the meals, and read the meals ingredients and instructions, mark meals as favorites, switch between all meals and favorited meals, and also switch to a totally different page where various filters can be set to filter the meals that will actually be shown in the all meals area
