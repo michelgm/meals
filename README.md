@@ -1,16 +1,21 @@
 # meals
 
-A new Flutter project.
+## What it is:
+Meals app allows users to browse various meals categories, pick the meals, and read the meals ingredients and instructions, mark meals as favorites, switch between all meals and favorited meals, and also switch to a totally different page where various filters can be set to filter the meals that will actually be shown in the all meals area
 
-## Getting Started
+## What was learned:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Building multi-scrren apps and navigating between screens
+#### Allowing users to navigate between screens
+##### -Managing screens stacks
+##### -Working with tab bars
+##### -Using side drawer
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Cross-widget state management
+##### -Using "riverpod" providers
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Animations
+##### -Explicit animations
+##### -Implicit animations
+##### -Using build-in animation widgets
