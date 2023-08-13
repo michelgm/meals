@@ -19,3 +19,8 @@ Meals app allows users to browse various meals categories, pick the meals, and r
 ##### -Explicit animations
 ##### -Implicit animations
 ##### -Using build-in animation widgets
+
+### Here's what the app looks like:
+
+https://github.com/michelgm/meals/assets/99933941/11492fda-4f2e-44ed-834d-35d298548204
+
